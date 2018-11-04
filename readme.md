@@ -2,6 +2,8 @@
 
 ![alt text](out/unlabeled.png "Logo Title Text 1")
 
+[Version including project names](out/labeled.png)  (warning 100 MB picture).
+
 ## Workflow
 1. The script orgs.js is crawling coinmarketcap for Crypto Currencies and their github repositories. It stores the results in `data/orgs.csv`.
 2. The script `index.js` queries the github api for the stargazers of each project and writes them into a file `data.data.csv`

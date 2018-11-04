@@ -1,0 +1,19 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^15.15.1",
+    "cheerio": "^1.0.0-rc.2",
+    "gexf": "^0.2.5",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
